@@ -41,7 +41,7 @@ function displayPokemon(pokemon) {
     let container = document.getElementById('pokemon-container');
     container.innerHTML = `
         <h2>${pokemon.speciesName} (#${pokemon.dex})</h2>
-        ${pokemon.types && pokemon.types.length > 0 ? `<p>Types: ${pokemon.types.join(', ')}</p>` : ''}
+        ${pokemon.types && pokemon.types.filter(type => type !== "null").length > 0 ? `<p>Types: ${pokemon.types.filter(type => type !== "null").join(', ')}</p>` : ''}
         ${pokemon.baseStats ? `<p>Base Stats: ATK: ${pokemon.baseStats.atk}, DEF: ${pokemon.baseStats.def}, HP: ${pokemon.baseStats.hp}</p>` : ''}
         ${pokemon.fastMoves && pokemon.fastMoves.length > 0 ? `<p>Fast Moves: ${pokemon.fastMoves.join(', ')}</p>` : ''}
         ${pokemon.chargedMoves && pokemon.chargedMoves.length > 0 ? `<p>Charged Moves: ${pokemon.chargedMoves.join(', ')}</p>` : ''}
