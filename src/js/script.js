@@ -1,5 +1,5 @@
 // URL do arquivo JSON
-const url = 'https://raw.githubusercontent.com/nowadraco/Bloggerdatabase/refs/heads/main/src/data/gamemaster/pokemon.json';
+const url = 'https://raw.githubusercontent.com/nowadraco/Bloggerdatabase/refs/heads/main/src/data/gamemaster/output.json';
 
 // Função para carregar a lista de Pokémon e preencher o dropdown
 function loadPokemonList() {
