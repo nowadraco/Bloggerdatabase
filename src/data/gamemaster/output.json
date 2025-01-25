@@ -226,7 +226,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -257,7 +257,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -288,7 +288,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -321,7 +321,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -490,7 +490,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -521,7 +521,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -552,7 +552,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -584,7 +584,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -616,7 +616,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -647,7 +647,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -678,7 +678,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -709,7 +709,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -738,7 +738,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -1237,7 +1237,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -1330,7 +1330,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -1361,7 +1361,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -1448,7 +1448,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -1540,7 +1540,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -1572,7 +1572,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -1604,7 +1604,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -1635,7 +1635,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -1666,7 +1666,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PRESENT",
@@ -1701,7 +1701,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -1728,7 +1728,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -1754,7 +1754,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -1784,7 +1784,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -1813,7 +1813,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -1838,7 +1838,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -1867,7 +1867,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -1896,7 +1896,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PRESENT",
@@ -1932,7 +1932,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -1998,7 +1998,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -2093,7 +2093,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -2126,7 +2126,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -2224,7 +2224,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -2256,7 +2256,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -2287,7 +2287,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -2318,7 +2318,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -2351,7 +2351,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -2446,7 +2446,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -2477,7 +2477,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -2508,7 +2508,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POISON_JAB",
@@ -2541,7 +2541,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POISON_JAB",
@@ -2640,7 +2640,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -2673,7 +2673,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -2708,7 +2708,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -2740,7 +2740,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW",
@@ -2772,7 +2772,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW",
@@ -2804,7 +2804,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -2836,7 +2836,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -2935,7 +2935,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -3542,7 +3542,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -3638,7 +3638,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -3670,7 +3670,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -3760,7 +3760,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -3790,7 +3790,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -3822,7 +3822,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -3854,7 +3854,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -3886,7 +3886,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -3918,7 +3918,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -3949,7 +3949,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -3980,7 +3980,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -4011,7 +4011,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -4042,7 +4042,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -4073,7 +4073,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4106,7 +4106,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4139,7 +4139,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "KARATE_CHOP",
@@ -4170,7 +4170,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -4205,7 +4205,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -4267,7 +4267,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -4298,7 +4298,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -4364,7 +4364,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -4399,7 +4399,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -4430,7 +4430,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -4461,7 +4461,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -4495,7 +4495,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -4599,7 +4599,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -4630,7 +4630,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -4661,7 +4661,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4693,7 +4693,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4725,7 +4725,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4758,7 +4758,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4787,7 +4787,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -4820,7 +4820,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "KARATE_CHOP",
@@ -4852,7 +4852,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "KARATE_CHOP",
@@ -4884,7 +4884,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "KARATE_CHOP",
@@ -4917,7 +4917,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "KARATE_CHOP",
@@ -4950,7 +4950,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_PUNCH",
@@ -4985,7 +4985,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_PUNCH",
@@ -5714,7 +5714,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -5746,7 +5746,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -5777,7 +5777,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -5874,7 +5874,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -6227,7 +6227,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -6320,7 +6320,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ICE_SHARD",
@@ -6387,7 +6387,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -6482,7 +6482,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -6513,7 +6513,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -6608,7 +6608,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -6640,7 +6640,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ICE_SHARD",
@@ -6672,7 +6672,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ICE_SHARD",
@@ -7079,7 +7079,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -7110,7 +7110,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -7141,7 +7141,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -7175,7 +7175,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -7209,7 +7209,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -7241,7 +7241,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -7273,7 +7273,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -7336,7 +7336,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -7368,7 +7368,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -7428,7 +7428,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -7643,7 +7643,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -7675,7 +7675,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -7707,7 +7707,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -7801,7 +7801,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -7831,7 +7831,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -7864,7 +7864,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -7897,7 +7897,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_PUNCH",
@@ -7930,7 +7930,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_PUNCH",
@@ -7963,7 +7963,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -7995,7 +7995,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -8027,7 +8027,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -8058,7 +8058,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -8120,7 +8120,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -8280,7 +8280,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -8313,7 +8313,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -8345,7 +8345,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -8377,7 +8377,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -8405,7 +8405,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -8433,7 +8433,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -8464,7 +8464,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -8495,7 +8495,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -8528,7 +8528,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -8561,7 +8561,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -8592,7 +8592,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -8624,7 +8624,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -8871,7 +8871,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -8903,7 +8903,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -8935,7 +8935,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -8968,7 +8968,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -9001,7 +9001,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -9057,7 +9057,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -9085,7 +9085,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -9111,7 +9111,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH"
@@ -9139,7 +9139,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH"
@@ -9327,7 +9327,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TRANSFORM"
@@ -9349,7 +9349,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -9388,7 +9388,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN"
@@ -9419,7 +9419,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -9450,7 +9450,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -9482,7 +9482,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -9534,7 +9534,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -9859,7 +9859,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -9893,7 +9893,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -10165,7 +10165,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -10196,7 +10196,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -10227,7 +10227,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -10260,7 +10260,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -10361,7 +10361,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -10391,7 +10391,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -10418,7 +10418,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -10448,7 +10448,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -10507,7 +10507,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -10539,7 +10539,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -10571,7 +10571,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -10604,7 +10604,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -10637,7 +10637,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -10668,7 +10668,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -10699,7 +10699,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -10730,7 +10730,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -10761,7 +10761,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -10793,7 +10793,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -10825,7 +10825,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -10888,7 +10888,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -10920,7 +10920,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -10951,7 +10951,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -10982,7 +10982,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -11014,7 +11014,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -11046,7 +11046,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -11079,7 +11079,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -11112,7 +11112,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -11143,7 +11143,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -11574,7 +11574,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -11605,7 +11605,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -11672,7 +11672,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -11890,7 +11890,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -11922,7 +11922,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -11954,7 +11954,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -11987,7 +11987,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -12020,7 +12020,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -12088,7 +12088,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -12122,7 +12122,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -12153,7 +12153,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -12245,7 +12245,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -12277,7 +12277,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -12309,7 +12309,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -12342,7 +12342,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -12565,7 +12565,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -12596,7 +12596,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -12627,7 +12627,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CUT",
@@ -12658,7 +12658,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -12876,7 +12876,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -12908,7 +12908,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -13094,7 +13094,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -13126,7 +13126,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -13158,7 +13158,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -13195,7 +13195,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -13223,7 +13223,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -13319,7 +13319,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -13350,7 +13350,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -13445,7 +13445,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -13629,7 +13629,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -13660,7 +13660,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -13691,7 +13691,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -13721,7 +13721,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -14130,7 +14130,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -14163,7 +14163,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -14196,7 +14196,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -14231,7 +14231,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -14266,7 +14266,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -14481,7 +14481,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -14506,7 +14506,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -14537,7 +14537,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -14917,7 +14917,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -14949,7 +14949,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -14981,7 +14981,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -15014,7 +15014,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -15047,7 +15047,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOCK_ON",
@@ -15096,7 +15096,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOCK_ON",
@@ -15145,7 +15145,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -15176,7 +15176,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -15207,7 +15207,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -15461,7 +15461,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -15494,7 +15494,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -15524,7 +15524,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -15586,7 +15586,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -15618,7 +15618,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -15650,7 +15650,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -15678,7 +15678,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -15708,7 +15708,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -15734,7 +15734,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -15760,7 +15760,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FIRE_FANG",
@@ -15788,7 +15788,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FIRE_FANG",
@@ -15816,7 +15816,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EXTRASENSORY",
@@ -15860,7 +15860,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EXTRASENSORY",
@@ -16287,7 +16287,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -16318,7 +16318,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -16349,7 +16349,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -16381,7 +16381,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -16413,7 +16413,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -16473,7 +16473,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -16505,7 +16505,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -16536,7 +16536,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -16723,7 +16723,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -16754,7 +16754,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -16938,7 +16938,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SNARL",
@@ -16969,7 +16969,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SNARL",
@@ -17000,7 +17000,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -17031,7 +17031,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -17062,7 +17062,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -17125,7 +17125,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SHADOW_CLAW",
@@ -17187,7 +17187,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -17217,7 +17217,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -17276,7 +17276,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -17432,7 +17432,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -17463,7 +17463,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -18031,7 +18031,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -18093,7 +18093,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "YAWN"
@@ -18123,7 +18123,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -18156,7 +18156,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "YAWN"
@@ -18275,7 +18275,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -18306,7 +18306,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -18337,7 +18337,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -18369,7 +18369,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -18401,7 +18401,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -18431,7 +18431,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -18461,7 +18461,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -18492,7 +18492,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -18523,7 +18523,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_PUNCH",
@@ -18554,7 +18554,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_PUNCH",
@@ -18616,7 +18616,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_THROW",
@@ -18647,7 +18647,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_THROW",
@@ -18678,7 +18678,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -18709,7 +18709,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -19032,7 +19032,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -19179,7 +19179,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -19210,7 +19210,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -19241,7 +19241,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -19273,7 +19273,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -19305,7 +19305,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -19337,7 +19337,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -19363,7 +19363,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -19389,7 +19389,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "STRUGGLE_BUG",
@@ -19414,7 +19414,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "STRUGGLE_BUG",
@@ -19472,7 +19472,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -19503,7 +19503,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -19654,7 +19654,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH",
@@ -19686,7 +19686,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH",
@@ -19718,7 +19718,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -19748,7 +19748,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -19902,7 +19902,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -19927,7 +19927,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH",
@@ -19958,7 +19958,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH",
@@ -19989,7 +19989,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -20018,7 +20018,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -20047,7 +20047,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PSYCHO_CUT",
@@ -20072,7 +20072,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -20105,7 +20105,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -20272,7 +20272,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POISON_STING",
@@ -20306,7 +20306,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POISON_STING",
@@ -20495,7 +20495,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FURY_CUTTER",
@@ -20520,7 +20520,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -20721,7 +20721,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -20754,7 +20754,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -21165,7 +21165,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH",
@@ -21194,7 +21194,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -21223,7 +21223,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -21249,7 +21249,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -21274,7 +21274,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW",
@@ -21299,7 +21299,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -21324,7 +21324,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -21352,7 +21352,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -21383,7 +21383,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -21414,7 +21414,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -21443,7 +21443,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -21468,7 +21468,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -21497,7 +21497,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -21528,7 +21528,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -21559,7 +21559,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -21592,7 +21592,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -21651,7 +21651,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -21680,7 +21680,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PSYCHO_CUT",
@@ -21706,7 +21706,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PSYCHO_CUT",
@@ -21732,7 +21732,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PSYCHO_CUT",
@@ -21758,7 +21758,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -21787,7 +21787,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -21819,7 +21819,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -21851,7 +21851,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -21880,7 +21880,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -21905,7 +21905,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -22122,7 +22122,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN"
@@ -22153,7 +22153,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -22182,7 +22182,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -22236,7 +22236,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH",
@@ -22261,7 +22261,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -22292,7 +22292,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -22323,7 +22323,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -22355,7 +22355,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_BREATH",
@@ -22659,7 +22659,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -22686,7 +22686,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -22713,7 +22713,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -22740,7 +22740,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -22767,7 +22767,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -22794,7 +22794,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -22980,7 +22980,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL"
@@ -23006,7 +23006,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL"
@@ -23032,7 +23032,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL"
@@ -23058,7 +23058,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -23112,7 +23112,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -23220,7 +23220,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -23245,7 +23245,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POISON_JAB",
@@ -23270,7 +23270,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -23295,7 +23295,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARGE_BEAM",
@@ -23320,7 +23320,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -23351,7 +23351,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -23382,7 +23382,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -23414,7 +23414,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -23508,7 +23508,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -23539,7 +23539,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -23694,7 +23694,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -23725,7 +23725,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -23756,7 +23756,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -23788,7 +23788,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -24080,7 +24080,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -24115,7 +24115,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -24208,7 +24208,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -24237,7 +24237,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FURY_CUTTER",
@@ -24266,7 +24266,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -24297,7 +24297,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -24328,7 +24328,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -24360,7 +24360,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -24392,7 +24392,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -24438,7 +24438,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -24563,7 +24563,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -24594,7 +24594,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -24625,7 +24625,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SMACK_DOWN",
@@ -24654,7 +24654,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SMACK_DOWN",
@@ -24803,7 +24803,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -24833,7 +24833,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -24863,7 +24863,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -25071,7 +25071,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -25096,7 +25096,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -25127,7 +25127,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -25157,7 +25157,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -25189,7 +25189,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -25218,7 +25218,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -25248,7 +25248,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -25335,7 +25335,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -25364,7 +25364,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -25515,7 +25515,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -25545,7 +25545,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -25606,7 +25606,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -25637,7 +25637,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HEX",
@@ -25728,7 +25728,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -25759,7 +25759,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -25790,7 +25790,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -25819,7 +25819,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -25848,7 +25848,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -26068,7 +26068,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -26130,7 +26130,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -26425,7 +26425,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -26456,7 +26456,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -26557,7 +26557,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -26589,7 +26589,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -26621,7 +26621,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -26656,7 +26656,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -26943,7 +26943,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -26968,7 +26968,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -26999,7 +26999,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -27345,7 +27345,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -27443,7 +27443,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -27474,7 +27474,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -27505,7 +27505,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -27536,7 +27536,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -27567,7 +27567,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FIRE_SPIN",
@@ -27599,7 +27599,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FIRE_SPIN",
@@ -27707,7 +27707,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -27738,7 +27738,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -27891,7 +27891,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOCK_ON",
@@ -27938,7 +27938,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOCK_ON",
@@ -28109,7 +28109,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -28141,7 +28141,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -28383,7 +28383,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -28408,7 +28408,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -28433,7 +28433,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -28590,7 +28590,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -28630,7 +28630,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -28722,7 +28722,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -28748,7 +28748,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -28774,7 +28774,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -28799,7 +28799,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUBBLE",
@@ -28828,7 +28828,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FEINT_ATTACK",
@@ -28854,7 +28854,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -28938,7 +28938,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -28963,7 +28963,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -28988,7 +28988,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29013,7 +29013,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29038,7 +29038,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29063,7 +29063,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29088,7 +29088,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29113,7 +29113,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29138,7 +29138,7 @@
     },
     "types": [
       "flying",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29163,7 +29163,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29188,7 +29188,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29213,7 +29213,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29238,7 +29238,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29263,7 +29263,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29288,7 +29288,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29313,7 +29313,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29338,7 +29338,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29363,7 +29363,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29414,7 +29414,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -29445,7 +29445,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29477,7 +29477,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -29507,7 +29507,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -29601,7 +29601,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -29632,7 +29632,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FURY_CUTTER",
@@ -29664,7 +29664,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FURY_CUTTER",
@@ -29727,7 +29727,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -29758,7 +29758,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -29789,7 +29789,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -29818,7 +29818,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -29847,7 +29847,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -29879,7 +29879,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -29912,7 +29912,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -29943,7 +29943,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -29974,7 +29974,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -30005,7 +30005,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -30035,7 +30035,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -30065,7 +30065,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -30096,7 +30096,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -30125,7 +30125,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -30156,7 +30156,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -30185,7 +30185,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -30216,7 +30216,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -30245,7 +30245,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ZEN_HEADBUTT",
@@ -30276,7 +30276,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ZEN_HEADBUTT",
@@ -30489,7 +30489,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -30520,7 +30520,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -30551,7 +30551,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -30580,7 +30580,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -30609,7 +30609,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -30640,7 +30640,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -30672,7 +30672,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -30765,7 +30765,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -30796,7 +30796,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -30891,7 +30891,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -30916,7 +30916,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -30947,7 +30947,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -30978,7 +30978,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -31010,7 +31010,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -31042,7 +31042,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -31072,7 +31072,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -31102,7 +31102,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SHOT",
@@ -31194,7 +31194,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -31220,7 +31220,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -31246,7 +31246,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -31272,7 +31272,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -31546,7 +31546,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -31591,7 +31591,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -31636,7 +31636,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -31761,7 +31761,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -31791,7 +31791,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -31821,7 +31821,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -31881,7 +31881,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -31911,7 +31911,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -31942,7 +31942,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -32004,7 +32004,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BULLET_SEED",
@@ -32237,7 +32237,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -32297,7 +32297,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -32569,7 +32569,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32599,7 +32599,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INFESTATION",
@@ -32629,7 +32629,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -32661,7 +32661,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SHADOW_CLAW",
@@ -32691,7 +32691,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32722,7 +32722,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32751,7 +32751,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32782,7 +32782,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32813,7 +32813,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32845,7 +32845,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -32877,7 +32877,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -32906,7 +32906,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -32935,7 +32935,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -32981,7 +32981,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -33027,7 +33027,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -33074,7 +33074,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -33121,7 +33121,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -33165,7 +33165,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "HIDDEN_POWER_BUG",
@@ -33331,7 +33331,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW",
@@ -33362,7 +33362,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -33394,7 +33394,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "FROST_BREATH",
@@ -33512,7 +33512,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -33755,7 +33755,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -34043,7 +34043,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "VOLT_SWITCH",
@@ -34075,7 +34075,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -34108,7 +34108,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -34139,7 +34139,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -34168,7 +34168,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -34200,7 +34200,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -34232,7 +34232,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -34263,7 +34263,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -34484,7 +34484,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -34515,7 +34515,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -34547,7 +34547,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -34578,7 +34578,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW",
@@ -34609,7 +34609,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW",
@@ -34639,7 +34639,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ICE_SHARD",
@@ -34666,7 +34666,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -34697,7 +34697,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ACID",
@@ -34779,7 +34779,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -34810,7 +34810,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -34842,7 +34842,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "DRAGON_TAIL",
@@ -35050,7 +35050,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ZEN_HEADBUTT",
@@ -35231,7 +35231,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -35516,7 +35516,7 @@
     },
     "types": [
       "flying",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -35542,7 +35542,7 @@
     },
     "types": [
       "flying",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -36043,7 +36043,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -36074,7 +36074,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -36139,7 +36139,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -36170,7 +36170,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -36235,7 +36235,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -36266,7 +36266,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -36330,7 +36330,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -36491,7 +36491,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -36520,7 +36520,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "STRUGGLE_BUG"
@@ -36645,7 +36645,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "VINE_WHIP",
@@ -36676,7 +36676,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "VINE_WHIP",
@@ -36708,7 +36708,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "VINE_WHIP",
@@ -36740,7 +36740,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ZEN_HEADBUTT",
@@ -36771,7 +36771,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ZEN_HEADBUTT",
@@ -36801,7 +36801,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LOW_KICK",
@@ -36864,7 +36864,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -36891,7 +36891,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -36923,7 +36923,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -36953,7 +36953,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -37072,7 +37072,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -37102,7 +37102,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -37132,7 +37132,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE"
@@ -37161,7 +37161,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -37380,7 +37380,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -37411,7 +37411,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -37632,7 +37632,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -37739,7 +37739,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -37770,7 +37770,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -37803,7 +37803,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -38169,7 +38169,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -38200,7 +38200,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -38325,7 +38325,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -38747,7 +38747,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -38778,7 +38778,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -38843,7 +38843,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -38874,7 +38874,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -39031,7 +39031,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -39062,7 +39062,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -39091,7 +39091,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -39187,7 +39187,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -39409,7 +39409,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -39443,7 +39443,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -39474,7 +39474,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SUCKER_PUNCH",
@@ -39504,7 +39504,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -39534,7 +39534,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -39560,7 +39560,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -39586,7 +39586,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -39672,7 +39672,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -39703,7 +39703,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -39794,7 +39794,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -39827,7 +39827,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -40039,7 +40039,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -40069,7 +40069,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -40102,7 +40102,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -40135,7 +40135,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "VINE_WHIP",
@@ -40203,7 +40203,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -40355,7 +40355,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER"
@@ -40377,7 +40377,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40408,7 +40408,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40435,7 +40435,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40462,7 +40462,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40489,7 +40489,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40516,7 +40516,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40543,7 +40543,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40570,7 +40570,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40597,7 +40597,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40624,7 +40624,7 @@
     },
     "types": [
       "flying",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40651,7 +40651,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40678,7 +40678,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40705,7 +40705,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40732,7 +40732,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40759,7 +40759,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40786,7 +40786,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40813,7 +40813,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40840,7 +40840,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40867,7 +40867,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -40944,7 +40944,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROLLOUT",
@@ -41122,7 +41122,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -41340,7 +41340,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH"
@@ -41368,7 +41368,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPLASH"
@@ -41537,7 +41537,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -41641,7 +41641,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -41801,7 +41801,7 @@
     },
     "types": [
       "poison",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POISON_JAB",
@@ -41913,7 +41913,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -41938,7 +41938,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK"
@@ -41967,7 +41967,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK"
@@ -41998,7 +41998,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -42028,7 +42028,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -42059,7 +42059,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SCRATCH",
@@ -42088,7 +42088,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42118,7 +42118,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42149,7 +42149,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42178,7 +42178,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -42208,7 +42208,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -42239,7 +42239,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POUND",
@@ -42268,7 +42268,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42300,7 +42300,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42331,7 +42331,7 @@
     },
     "types": [
       "flying",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -42361,7 +42361,7 @@
     },
     "types": [
       "flying",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -42421,7 +42421,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "STRUGGLE_BUG"
@@ -42508,7 +42508,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -42538,7 +42538,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "QUICK_ATTACK",
@@ -42566,7 +42566,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -42596,7 +42596,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "RAZOR_LEAF",
@@ -42624,7 +42624,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42655,7 +42655,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -42685,7 +42685,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -42744,7 +42744,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -42774,7 +42774,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -42802,7 +42802,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SMACK_DOWN",
@@ -42982,7 +42982,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -43013,7 +43013,7 @@
     },
     "types": [
       "ground",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "MUD_SLAP",
@@ -43067,7 +43067,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -43099,7 +43099,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -43312,7 +43312,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH"
@@ -43342,7 +43342,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -43372,7 +43372,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43403,7 +43403,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43434,7 +43434,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43465,7 +43465,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43495,7 +43495,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43525,7 +43525,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43555,7 +43555,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -43586,7 +43586,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CONFUSION",
@@ -43774,7 +43774,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -43805,7 +43805,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH",
@@ -43834,7 +43834,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "COUNTER",
@@ -43926,7 +43926,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -43955,7 +43955,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -43984,7 +43984,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -44009,7 +44009,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -44095,7 +44095,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_THROW"
@@ -44119,7 +44119,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW"
@@ -44143,7 +44143,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW"
@@ -44167,7 +44167,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "POWDER_SNOW"
@@ -44341,7 +44341,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -44372,7 +44372,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -44674,7 +44674,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -44758,7 +44758,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "METAL_CLAW",
@@ -44837,7 +44837,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -44869,7 +44869,7 @@
     },
     "types": [
       "fighting",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_SMASH",
@@ -44985,7 +44985,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -45011,7 +45011,7 @@
     },
     "types": [
       "dragon",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE"
@@ -45036,7 +45036,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -45061,7 +45061,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -45455,7 +45455,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LEAFAGE",
@@ -45486,7 +45486,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LEAFAGE",
@@ -45548,7 +45548,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INCINERATE",
@@ -45579,7 +45579,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "INCINERATE",
@@ -45641,7 +45641,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -45672,7 +45672,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -45734,7 +45734,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -45766,7 +45766,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -45795,7 +45795,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TACKLE",
@@ -45824,7 +45824,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -45855,7 +45855,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -45885,7 +45885,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -45947,7 +45947,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SPARK",
@@ -46043,7 +46043,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -46076,7 +46076,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -46106,7 +46106,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -46136,7 +46136,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "TAKE_DOWN",
@@ -46166,7 +46166,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -46197,7 +46197,7 @@
     },
     "types": [
       "fairy",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "CHARM",
@@ -46448,7 +46448,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_THROW",
@@ -46479,7 +46479,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SMACK_DOWN",
@@ -46511,7 +46511,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SMACK_DOWN",
@@ -46540,7 +46540,7 @@
     },
     "types": [
       "fire",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "EMBER",
@@ -46632,7 +46632,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -46663,7 +46663,7 @@
     },
     "types": [
       "electric",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "THUNDER_SHOCK",
@@ -46752,7 +46752,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SNARL",
@@ -46783,7 +46783,7 @@
     },
     "types": [
       "dark",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "SNARL",
@@ -46992,7 +46992,7 @@
     },
     "types": [
       "rock",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ROCK_THROW",
@@ -47017,7 +47017,7 @@
     },
     "types": [
       "grass",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LEAFAGE",
@@ -47078,7 +47078,7 @@
     },
     "types": [
       "bug",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BUG_BITE",
@@ -47139,7 +47139,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -47170,7 +47170,7 @@
     },
     "types": [
       "psychic",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "PECK",
@@ -47292,7 +47292,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -47323,7 +47323,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATER_GUN",
@@ -47377,7 +47377,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -47408,7 +47408,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -47440,7 +47440,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -47472,7 +47472,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -47589,7 +47589,7 @@
     },
     "types": [
       "steel",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "IRON_TAIL",
@@ -47674,7 +47674,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -47705,7 +47705,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "LICK",
@@ -47759,7 +47759,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ICE_SHARD",
@@ -47791,7 +47791,7 @@
     },
     "types": [
       "ice",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ICE_SHARD",
@@ -47847,7 +47847,7 @@
     },
     "types": [
       "water",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "WATERFALL",
@@ -48071,7 +48071,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -48101,7 +48101,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -48131,7 +48131,7 @@
     },
     "types": [
       "normal",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "BITE",
@@ -48551,7 +48551,7 @@
     },
     "types": [
       "ghost",
-      "none"
+      "null"
     ],
     "fastMoves": [
       "ASTONISH"
